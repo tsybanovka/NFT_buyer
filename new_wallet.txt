@@ -1,0 +1,33 @@
+{
+    "wallet_address": "EQDFrVMKUHh33T6gV602OhuRvw_CC84yYMMzg_RSJmogBxye",
+    "mnemonics": [
+        "cook",
+        "era",
+        "sock",
+        "expose",
+        "practice",
+        "proud",
+        "dinner",
+        "resemble",
+        "act",
+        "grab",
+        "truly",
+        "erase",
+        "develop",
+        "crop",
+        "silly",
+        "provide",
+        "split",
+        "penalty",
+        "list",
+        "memory",
+        "urban",
+        "surround",
+        "error",
+        "airport"
+    ],
+    "public_key": "8fd6647861001ebe50a6df2775b6f42794976ccecf4bd2f2e9dc61e54f3bb0ba",
+    "private_key": "5f5e48d7a1dd7ec696f98dc875ed31a9ac3b5e67f402334febf4d41c72fb09f48fd6647861001ebe50a6df2775b6f42794976ccecf4bd2f2e9dc61e54f3bb0ba",
+    "wallet_address_testnet": "kQDFrVMKUHh33T6gV602OhuRvw_CC84yYMMzg_RSJmogB6cU"
+}
+

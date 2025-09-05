@@ -1,0 +1,33 @@
+{
+    "wallet_address": "EQAH4ZmH7y4l6G_TSF_dUpcX9NNf_Tjs4uSdrS2GpVYfVyhH",
+    "mnemonics": [
+        "dolphin",
+        "hurry",
+        "dismiss",
+        "differ",
+        "drastic",
+        "toy",
+        "doll",
+        "debris",
+        "lend",
+        "indicate",
+        "country",
+        "rabbit",
+        "spin",
+        "false",
+        "food",
+        "story",
+        "occur",
+        "faculty",
+        "diary",
+        "venue",
+        "vote",
+        "engine",
+        "hotel",
+        "lamp"
+    ],
+    "public_key": "ee603cce1a5ad60e3dac944276194871776963cd496c2398dd8a7775bd299329",
+    "private_key": "0844a86574b9f9adc29a291f1efea8b5331e9faee42fe09fc3b88712480c0df0ee603cce1a5ad60e3dac944276194871776963cd496c2398dd8a7775bd299329",
+    "wallet_address_testnet": "kQAH4ZmH7y4l6G_TSF_dUpcX9NNf_Tjs4uSdrS2GpVYfV5PN"
+}
+

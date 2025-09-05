@@ -1,0 +1,8 @@
+# parsing
+requests
+# crypting
+cryptography
+
+# tonutils
+tonsdk
+TonTools
